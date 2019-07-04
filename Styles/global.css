@@ -27,6 +27,7 @@ body {
     flex-direction: row;
     justify-content: space-evenly;
     min-width: 300px;
+    display: none;
 }
 
 #details ul {

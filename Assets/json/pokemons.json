@@ -7,6 +7,6 @@
         "spedef": 60,
         "speed": 105,
         "ability": "lightningrod",
-        "moves": ["charge", "thunderbolt"]
+        "moves": ["tackle", "thunderbolt"]
     }
 }
